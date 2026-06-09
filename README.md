@@ -19,3 +19,13 @@ Podczas pracy korzystaliśmy również ze starszych wersji kodu, załączonych w
 Inspiracją dla projektu była zabawka Furby, która reagowała na otoczenie, zmiany położenia, dotyk oraz inne bodźce, sprawiając wrażenie interaktywnego i „żywego” urządzenia. Podobnie jak Furby, robot Sharky ma być czymś więcej niż tylko prostą konstrukcją elektroniczną. Jego zadaniem jest reagowanie na określone sygnały, wykonywanie zaprogramowanych zachowań i angażowanie użytkownika w interakcję. Dzięki temu projekt staje się bardziej atrakcyjny dla uczniów, ponieważ łączy naukę z zabawą, kreatywnością i możliwością obserwowania natychmiastowych efektów własnej pracy.
 
 Całość ma na celu pokazanie, że podstawy sztucznej inteligencji można poznawać w sposób praktyczny, ciekawy i zrozumiały. Uczniowie, pracując z robotem Sharky, uczą się nie tylko programowania i podstaw elektroniki, ale również logicznego myślenia, rozwiązywania problemów oraz projektowania interakcji człowiek–maszyna. Projekt pokazuje też, że tworzenie działającego urządzenia wymaga połączenia wielu dziedzin: programowania, elektroniki, modelowania 3D, testowania oraz analizy błędów. Dzięki temu może być dobrym wprowadzeniem do bardziej zaawansowanych tematów związanych z robotyką, automatyką, projektowaniem technicznym, analizą danych i sztuczną inteligencją.
+
+
+## 📝 License
+
+[![CC BY 2.0][cc-by-shield]][cc-by]
+
+This work is licensed under a [Creative Commons Attribution 2.0 Generic License][cc-by].
+
+[cc-by]: http://creativecommons.org/licenses/by/2.0/
+[cc-by-shield]: https://img.shields.io/badge/License-CC_BY_2.0-lightgrey.svg
