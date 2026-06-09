@@ -25,9 +25,6 @@
  *
  * UWAGA SPRZETOWA
  * ---------------
- * - GPIO4 to normalnie pin diody FLASH. Tranzystor przy diodzie zostal
- * wylutowany, wiec GPIO4 jest wolny i sluzy jako linia I2C ekranu.
- * Dioda flash jest niedostepna (polecenia "flash" sa puste).
  * - PSRAM JEST WLACZONY -> kamera moze uzywac pelnych rozdzielczosci, a bufor
  * klatki trafia do PSRAM. GPIO16 NALEZY do PSRAM - nie wolno go uzywac do
  * niczego innego (dlatego drugie oko jest na GPIO4, a nie na GPIO16).
